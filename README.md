@@ -8,6 +8,18 @@ Download the assignment from https://drive.google.com/file/d/17PFv2OwgRFHE7BzjAf
 
 ## Assignment
 
+Learning Goals
+
+By the end of this assignment you should be able to:
+
+- Build a tokenizer and character vocabulary
+- Generate autoregressive training data
+- Implement causal self-attention from scratch
+- Assemble a Transformer block
+- Train a tiny GPT-like language model
+- Generate predictions autoregressively
+- Evaluate model quality using real mathematical checks
+
 
 ## Deliverables
 
