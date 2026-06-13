@@ -1,5 +1,5 @@
-# EdgeAI_OpenMV_Gesture_Assignment_Student.ipynb
-## Embedded AI – Assignment 3
+# Transformer that learns Addition
+## Embedded AI – Assignment 6
 ## EMBD X424
 ## Dennis Griffith
 
